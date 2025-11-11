@@ -25,4 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahidswe&show_icons=true&locale=en" alt="jahidswe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahidswe&" alt="jahidswe" /></p>
-
+![jahidswe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidswe&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
